@@ -6,7 +6,7 @@ Décris clairement les changements apportés et leur objectif.
 
 ## Comportements modifiés
 
-## Points d'attention pour la revue :
+## Points d'attention pour la revue
 
 ## Test plan
 
